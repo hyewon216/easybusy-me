@@ -2,11 +2,11 @@ title:              "바쁜 직장인의 재테크"
 tagline:            "초등학생도 이해하는 제태크"
 email:              "kkom216@naver.com"
 description:        "질문은 무수하나 시간도 열정도 없는 모두에게 제태크를!"
-author:             "정혜원"
+author:             "피글렛"
 baseurl:            "/"
 url:                "https://easybusy.me"
 locale:             "ko_KR"
-thumbnail:          "/img/blogthumbnail.png"
+thumbnail:          "/img/blog_thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
