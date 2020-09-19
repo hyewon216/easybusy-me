@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://easybusy.me/sitemap.xml
+
+DaumWebMasterTool:9fa147bb20af99126286eaff1fe28882a60846072e7f39c5cb1ff2ed9af7c995:SkzY+iibjkK3lYUDIfzDEw==
