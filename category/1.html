@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 카테고리 1
-permalink: /category/1/
-background: '/img/bg-post.jpg'
+title: 생각들
+permalink: /thinking/
+background: '/img/bg-index.jpg'
 ---
 
-	{% for post in site.categories.category-1 %}
+	{% for post in site.categories.thinking %}
 
 	<article class="post-preview">
 	  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">

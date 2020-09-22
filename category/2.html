@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 카테고리 2
-permalink: /category/2/
-background: '/img/bg-post.jpg'
+title: 재테크
+permalink: /list/
+background: '/img/bg-index.jpg'
 ---
 
-	{% for post in site.categories.category-2 %}
+	{% for post in site.categories.list %}
 
 	<article class="post-preview">
 	  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
